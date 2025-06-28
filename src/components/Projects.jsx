@@ -40,7 +40,7 @@ export function Projects() {
       description:
         "Jeu de piano avec alphabets",
       image: "/piano.png",
-      technologies: ["React Native", "JavaScript", "API REST", "Machine Learning"],
+      technologies: ["html", "css", "JavaScript"],
       liveUrl: "https://safae01.github.io/Piano-Game/",
       githubUrl: "https://github.com/Safae01/Piano-Game",
       featured: false,

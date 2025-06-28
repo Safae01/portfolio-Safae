@@ -49,11 +49,7 @@ export function Hero() {
 
       <div className="container mx-auto px-4 text-center relative z-10">
         <div className="max-w-4xl mx-auto">
-          <div className="mb-8">
-            <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 flex items-center justify-center text-white text-4xl font-bold hover:scale-110 transition-transform duration-300 shadow-2xl animate-bounce">
-              SB
-            </div>
-          </div>
+          
 
           <div className="mb-6">
             <h1 className="text-4xl md:text-6xl font-bold mb-4">

@@ -67,7 +67,7 @@ export function About() {
             <div className="space-y-6">
               <div className="prose prose-lg">
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Développeuse front-end avec plus de 3 ans d'expérience, je suis passionnée par la création
+                  Développeuse front-end avec plus d'1 an d'expérience, je suis passionnée par la création
                   d'interfaces utilisateur modernes, accessibles et performantes. Chaque ligne de code que j'écris est
                   pensée pour offrir la meilleure expérience possible aux utilisateurs.
                 </p>
